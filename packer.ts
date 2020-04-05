@@ -10,7 +10,6 @@ namespace binpacker {
         data: any;
         down: Node;
         right: Node;
-        fit: Node;
 
         constructor(public x: number, public y: number, public w: number, public h: number) {
         }
