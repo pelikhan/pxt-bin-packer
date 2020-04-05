@@ -5,9 +5,8 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "README.md",
+        "packer.ts"
     ],
     "testFiles": [
         "test.ts"
