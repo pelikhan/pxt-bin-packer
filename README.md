@@ -4,7 +4,7 @@
 > Open this page at [https://pelikhan.github.io/pxt-bin-packer/](https://pelikhan.github.io/pxt-bin-packer/)
 
 This extension contains a port of
-https://github.com/jakesgordon/bin-packing for MakeCode.
+[https://github.com/jakesgordon/bin-packing](https://github.com/jakesgordon/bin-packing) for MakeCode.
 
 ## Use this extension
 
