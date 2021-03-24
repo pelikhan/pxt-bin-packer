@@ -12,6 +12,10 @@
     "testFiles": [
         "test.ts"
     ],
+    "targetVersions": {
+        "target": "1.4.28",
+        "targetId": "arcade"
+    },
     "supportedTargets": [
         "arcade"
     ],
